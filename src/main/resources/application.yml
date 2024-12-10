@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: tg-example
+
+currency-bot:
+  token: 7662308788:AAGeE76sgEyJZvMXzkHIDqhoK2TEysf8N0Y
+
